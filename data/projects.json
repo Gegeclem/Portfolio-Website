@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Project1: Creating Music (using AI)",
+        "description": "My very first project which wowed me with its quality and impact was creating this amazing piece(titled:Future Revolution) in less than 20 minutes using Udio.com.",
+        "link": "https://www.udio.com/songs/2JPDuSpt9JBeCnVpwgThVs"
+    },
+    {
+        "title": "Project2:Teachable Machines",
+        "description": "My trained Image Recognition Robot. Using google’s teachable machine. This machine can detect Reutral gesture and  differentiate from High Five andFisted hand gestures",
+        "link": "https://teachablemachine.withgoogle.com/models/vmB4O3YGK/"
+    },
+    {
+        "title": "Project3:Data  Analysis(infogram.com)",
+        "description": "Another of my projects which allowed me to analyze and visualize data in  clearer and meaningful forms..",
+        "link": "https://infogram.com/copy-average-salaries-by-seniority-gege-clement-1h9j6q70m9nlv4g?live"
+    },
+    {
+        "title": "Project4:Data  Analysis(infogram.com) ",
+        "description": "Another of my projects which allowed me to analyze and visualize data in  clearer and meaningful forms..",
+        "link": "https://infogram.com/average-salaries-per-job-title-gege-clement-1h7v4pd3ml55j4k?live"
+    },
+    {
+        "title": "Project5: Web Development",
+        "description": "Personal website (Canva)",
+        "link": "https://aboutgege-clement.my.canva.site/thejourney-so-far"
+    },
+    {
+        "title": "Project6: Web Development",
+        "description": "Professional website  (wix)",
+        "link": "https://gegeclem1.wixsite.com/clems-digital-center"
+    }
+
+]
